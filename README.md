@@ -1,5 +1,7 @@
 
 # Core CS
+(from https://github.com/Hsien-HsiuLiao/computer-science#core-cs)
+
 All coursework under Core CS is required, unless otherwise indicated.
 
 Core programming
